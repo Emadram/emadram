@@ -1,7 +1,7 @@
 ### Hello there, I'm <a href ="https://github.com/emadram">Emad</a>
-<hr style="margin: 20px 0; border: 1px solid #444;">
+<hr style="margin: 30px 0; border: 1px solid #444;">
 Tech enthusiast with a knack for project management and a growing passion for coding. Currently applying organizational skills to lead team projects while diving into full-stack development.
-<hr style="margin: 20px 0; border: 1px solid #444;">
+<hr style="margin: 30px 0; border: 1px solid #444;">
 
 <div>
   <a href="https://github.com/emadram">
