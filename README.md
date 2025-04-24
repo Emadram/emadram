@@ -1,4 +1,4 @@
-### Hello there, I'm <a href="https://github.com/emadram">Emad</a>
+ ### Hello there, I'm <a href="https://github.com/emadram">Emad</a>
 <hr style="margin: 30px 0; border: 1px solid #444;">
 
 Tech enthusiast with a knack for project management and a growing passion for coding.  
@@ -16,14 +16,14 @@ Currently applying organizational skills to lead team projects while diving into
 
 <hr style="margin: 30px 0; border: 1px solid #444;">
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/emadram">
     <img src="https://github-readme-stats.vercel.app/api?username=emadram&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A" alt="Emad Github Stats"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/emadram">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emadram&layout=compact&include_forks=true&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A" alt="Top Languages Bar Chart"/>
   </a>
-</p>
+</div>
