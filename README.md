@@ -18,10 +18,12 @@ Currently applying organizational skills to lead team projects while diving into
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <a href="https://github.com/emadram">
-    <img src="https://github-readme-stats.vercel.app/api?username=emadram&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A" alt="Emad Github Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=emadram&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A" alt="Emad Github Stats"/>
   </a>
 </div>
 
+<div align="center">
   <a href="https://github.com/emadram">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emadram&layout=compact&include_forks=true&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A" alt="Top Languages Bar Chart"/>
   </a>
+</div>
