@@ -21,5 +21,5 @@ Project manager by day, developer by night. I leverage organizational skills to 
 </p>
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emad-ramezani-747287207/)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://YOUR_PORTFOLIO_URL) To be updated later --> 
