@@ -23,7 +23,7 @@ Project manager by day, developer by night. I leverage organizational skills to 
 </div>
 
 ## Connect With Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/emad-ramezani-747287207">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
