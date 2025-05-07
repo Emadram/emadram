@@ -15,10 +15,14 @@ Project manager by day, developer by night. I leverage organizational skills to 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## GitHub Stats
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=emadram&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=emadram&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A)" alt="GitHub Stats" height="170"/>
+<div>
+  <a href="https://github.com/emadram">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emadram&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A" alt="Emad Github Stats">
+  </a>
+  <a href="https://github.com/emadram">
     <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=emadram&layout=compact&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A">
-</p>
+  </a>
+</div>
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emad-ramezani-747287207/)
