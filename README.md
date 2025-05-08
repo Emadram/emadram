@@ -9,8 +9,11 @@ Project manager by day, developer by night. I leverage organizational skills to 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,js,python" alt="My Skills" />
+  </br>
     <img src="https://skillicons.dev/icons?i=dotnet,react,vite,npm" alt="My Skills" />
+    </br>
     <img src="https://skillicons.dev/icons?i=bash,git,vim,sublime,vscode" alt="My Skills" />
+    </br>
     <img src="https://skillicons.dev/icons?i=apple,windows" alt="My Skills" /> <!--linux -->
   </a>
 </p>
