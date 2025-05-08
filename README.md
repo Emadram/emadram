@@ -13,7 +13,9 @@ Project manager by day, developer by night. I leverage organizational skills to 
 </p>
 
 ## GitHub Stats
-![emadram's Stats](https://github-readme-stats.vercel.app/api?username=emadram&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![emadram's Stats](https://github-readme-stats.vercel.app/api?username=emadram&theme=nord&show_icons=true&hide_border=false&count_private=true)
+![emadram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emadram&theme=kacho_ga&hide_border=true)
+![emadram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emadram&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## Connect With Me
 <p>
