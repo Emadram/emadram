@@ -13,14 +13,7 @@ Project manager by day, developer by night. I leverage organizational skills to 
 </p>
 
 ## GitHub Stats
-<div>
-  <a href="https://github.com/emadram" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emadram&include_all_commits=true&count_private=true&show_icons=true" alt="Emad Github Stats">
-  </a>
-  <a href="https://github.com/emadram" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=emadram&layout=compact&title_color=00BFFF&icon_color=00BFFF&text_color=B0E0E6&bg_color=0,000000,1E2A3A">
-  </a>
-</div>
+![emadram's Stats](https://github-readme-stats.vercel.app/api?username=emadram&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Connect With Me
 <p>
