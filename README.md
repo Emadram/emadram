@@ -15,6 +15,7 @@ Project manager by day, developer by night. I leverage organizational skills to 
 ## GitHub Stats
 ![emadram's Stats](https://github-readme-stats.vercel.app/api?username=emadram&theme=nord&show_icons=true&hide_border=false&count_private=true)
 </br>
+</br>
 ![emadram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emadram&theme=kacho_ga&hide_border=true)
 </br>
 
