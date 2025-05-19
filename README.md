@@ -25,7 +25,7 @@ Project manager by day, developer by night. I leverage organizational skills to 
 ![emadram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emadram&show_icons=true&count_private=true&hide_border=false&theme=react)
 
 ![emadram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emadram&layout=pie&hide_border=false&theme=react)
-</div>
+
 ## Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/emad-ramezani-747287207" target="_blank" rel="noopener noreferrer">
