@@ -22,9 +22,15 @@ Project manager by day, developer by night. I leverage organizational skills to 
 
 ## GitHub Stats
 
-![emadram's Stats](https://github-readme-stats.vercel.app/api?username=emadram&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+<div align="center" style="background: linear-gradient(to right, #3a7bd5, #00d2ff); padding: 20px; border-radius: 15px;">
 
-![emadram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emadram&theme=blue-green&layout=donut-vertical&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=emadram&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emadram&layout=donut-vertical&hide_border=true&theme=transparent" alt="Top Languages" style="max-width: 100%; border-radius: 10px;" />
+
+</div>
 ## Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/emad-ramezani-747287207" target="_blank" rel="noopener noreferrer">
