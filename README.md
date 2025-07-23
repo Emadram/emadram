@@ -5,7 +5,7 @@
 ## About Me
 Project manager by day, developer by night. I leverage organizational skills to lead team projects while continuously expanding my technical capabilities in software development.
 
-## Tech Stack //Outdated will be updated in 1 month
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,js,python" alt="My Skills" />
