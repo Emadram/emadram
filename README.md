@@ -32,4 +32,3 @@ Project manager by day, developer by night. I leverage organizational skills to 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://YOUR_PORTFOLIO_URL) To be updated later --> 
