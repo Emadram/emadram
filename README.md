@@ -1,6 +1,5 @@
 # Hi there 👋 I'm [Emad](https://github.com/emadram)
-
-> Tech enthusiast merging project management expertise with Backend development skills
+################------- UPDATING
 
 ## About Me
 Project manager by day, developer by night. I leverage organizational skills to lead team projects while continuously expanding my technical capabilities in software development.
