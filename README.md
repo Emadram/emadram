@@ -1,5 +1,5 @@
 # Hi there 👋 I'm [Emad](https://github.com/emadram)
-################------- UPDATING
+------ UPDATING
 
 ## About Me
 Project manager by day, developer by night. I leverage organizational skills to lead team projects while continuously expanding my technical capabilities in software development.
