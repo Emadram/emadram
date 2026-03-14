@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Emad](https://github.com/emadram)
+# Hello
 ------ UPDATING
 
 ## About Me
