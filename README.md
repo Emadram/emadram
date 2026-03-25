@@ -2,7 +2,7 @@
 ------ UPDATING
 
 ## About Me
-Still updating ---10%
+Still updating ---13%
 
 ## Tech Stack
 <p align="center">
