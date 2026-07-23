@@ -1,4 +1,4 @@
-Updating -10%
+Updating -25%
 <hr>
-Currently working on a godot RTS game project and my personal blog.(Also my grad Prj PriceMate)
+Currently having fun, thinking, and doing my internship
 
