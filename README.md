@@ -1,4 +1,4 @@
-Updating -25%
+Updating -45%
 <hr>
-Currently having fun, thinking, and doing my internship
+Currently having fun, a lot of thinking, and doing my internship.
 
