@@ -1,4 +1,4 @@
-Updating -45%
+Updating -01% (Late night commit, lets start again)
 <hr>
-Currently having fun, a lot of thinking, and doing my internship.
+Thinking 
 
